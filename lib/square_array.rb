@@ -1,4 +1,4 @@
 def square_array(array)
-  square_array(array) = [1, 2, 3]
-  
+  numbers = [1, 2, 3]
+  square_array(array) = (numbers ** 2)
 end
